@@ -1,0 +1,2 @@
+Pas fini, problème à régler entre version Python, virtualenv, installation de Django
+A revoir pour permettre au site de fonctionner,
